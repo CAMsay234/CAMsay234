@@ -4,6 +4,8 @@
 **CAMsay234/CAMsay234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+-->
+
 ### Mi nombre es Camilo Velasquez
 - 📚 Soy estudiante de primer semestre en ingenieria en ciencia de datos.
 - 👨‍💻 Estoy aprendiendo JV.
@@ -13,4 +15,4 @@ Here are some ideas to get you started:
 - 📫 Me pueden contactar por el correo: camilovelasquez2003@gmail.com.
 - 👓 Pronombre: ElCAMsay .
 - ⚡ Dato random: me gustan las matemáticas exageradamente. 💖 
--->
+
