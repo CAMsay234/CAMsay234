@@ -7,6 +7,7 @@ Here are some ideas to get you started:
 -->
 
 ### Mi nombre es Camilo Velasquez
+- 🎂 tengo 17 años.
 - 📚 Soy estudiante de primer semestre en ingenieria en ciencia de datos.
 - 👨‍💻 Estoy aprendiendo JV.
 - 👶 Nuevo en programación, formación en proceso. 
