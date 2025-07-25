@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 -->
 
 ### Mi nombre es Camilo Velásquez
-- 📚 Soy estudiante de octavo semestre en ingenieria en ciencia de datos.
+- 📚 Soy estudiante de noveno semestre en ingenieria en ciencia de datos / analista de datos.
 - 👨‍💻 Estoy aprendiendo Phyton y C#.
 - 🧠  formación en proceso.  
 - 📫 Me pueden contactar por el correo: camilovelasquez2003@gmail.com.
